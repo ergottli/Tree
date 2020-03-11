@@ -1,4 +1,4 @@
-# ls-like utilite
+# Tree
 
 This is my first Go program that recursively prints the contents of a specified directory.
 
